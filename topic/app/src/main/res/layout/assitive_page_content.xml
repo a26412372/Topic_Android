@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_marginTop="48dp"
+        android:textSize="25dp"
+        android:background="#c0c0c0"
+        android:id="@+id/AD_page_subsidy_project"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+
+    <TextView
+        android:background="#FFF"
+        android:id="@+id/AD_page_type"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_object1"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_object2"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_object3"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:background="#f0f0f0"
+        android:id="@+id/AD_page_APL"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:background="#f0f0f0"
+        android:id="@+id/AD_page_APLAM"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:background="#f0f0f0"
+        android:id="@+id/AD_page_APG"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_subsidy_content"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_organizer"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:background="#f0f0f0"
+        android:id="@+id/AD_page_telephone"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:background="#f0f0f0"
+        android:id="@+id/AD_page_apply1"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:background="#f0f0f0"
+        android:id="@+id/AD_page_apply2"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:id="@+id/AD_page_application_document1"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="60dp" />
+
+    <TextView
+        android:id="@+id/AD_page_application_document2"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:id="@+id/AD_page_application_document3"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+</LinearLayout>

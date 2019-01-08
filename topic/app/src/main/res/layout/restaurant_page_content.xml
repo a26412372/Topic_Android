@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:textSize="25dp"
+        android:background="#c0c0c0"
+        android:id="@+id/AD_page_restaurant_Name"
+        android:gravity="center"
+        android:layout_width="420dp"
+        android:layout_height="40dp" />
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_restaurant_Type"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_restaurant_Telephone"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_restaurant_City"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_restaurant_District"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:background="#f0f0f0"
+        android:id="@+id/AD_page_restaurant_Address"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+
+    <TextView
+        android:background="#f0f0f0"
+        android:id="@+id/AD_page_restaurant_Latitude"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:background="#f0f0f0"
+        android:id="@+id/AD_page_restaurant_Longitude"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+
+
+
+</LinearLayout>

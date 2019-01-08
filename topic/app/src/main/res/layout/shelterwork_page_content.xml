@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:textSize="25dp"
+        android:background="#c0c0c0"
+        android:id="@+id/AD_page_shelter_work_organizer"
+        android:gravity="center"
+        android:layout_width="420dp"
+        android:layout_height="40dp" />
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_shelter_work_city"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+
+    <TextView
+
+        android:background="#fff"
+        android:id="@+id/AD_page_shelter_work_name"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+
+    <TextView
+
+        android:background="#fff"
+        android:id="@+id/AD_page_shelter_work_type"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+
+        android:background="#fff"
+        android:id="@+id/AD_page_shelter_work_items"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+
+    <TextView
+
+        android:background="#f0f0f0"
+        android:id="@+id/AD_page_shelter_work_offer"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+
+    <TextView
+
+        android:background="#f0f0f0"
+        android:id="@+id/AD_page_shelter_work_people"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+
+    <TextView
+
+        android:background="#f0f0f0"
+        android:id="@+id/AD_page_shelter_work_need"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+
+        android:background="#fff"
+        android:id="@+id/AD_page_shelter_work_ContactPerson"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_shelter_work_phone"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+
+    <TextView
+        android:background="#f0f0f0"
+        android:id="@+id/AD_page_shelter_work_address"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+
+</LinearLayout>

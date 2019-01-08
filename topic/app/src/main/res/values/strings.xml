@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TEST_OkHttpClient</string>
+
+    <string name="url_main">/topic/test_login.php"</string>
+    <string name="url_aids">/topic/aids.php"</string>
+    <string name="url_AssistiveDeviceActivity">/topic/AssistiveDevice.php"</string>
+    <string name="url_ParkingGrid">/topic/parking.php"</string>
+    <string name="url_restaurant">/topic/restaurant.php"</string>
+    <string name="url_ShelterWork">/topic/shelter_work.php"</string>
+    <string name="url_singin">/topic/test_singin.php"</string>
+    <string name="url_ArticleActivity">/topic/Article.php"</string>
+    <string name="url_ArticleContentActivity">/topic/ArticleContent.php"</string>
+
+    <string name="tag2">http://676ccee2.ngrok.io</string>
+    <string name="tag1">"http://10.0.2.2:8080</string>
+
+    <string name="title_activity_maps">Map</string>
+
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:textSize="25dp"
+        android:background="#c0c0c0"
+        android:id="@+id/AD_page_parking_Address"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_parking_city"
+        android:gravity="center"
+        android:layout_width="420dp"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_parking_zone"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+
+
+    <TextView
+        android:background="#fff"
+        android:id="@+id/AD_page_parking_classification"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+
+        android:id="@+id/AD_page_parking_Latitude"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+
+        android:id="@+id/AD_page_parking_Longitude"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

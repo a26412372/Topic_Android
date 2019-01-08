@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="AD">
+        <item>電動拍痰器</item>
+        <item>抽痰機</item>
+        <item>化痰機(噴霧器)</item>
+        <item>血氧偵測儀(血氧機)</item>
+        <item>UPS不斷電系統</item>
+        <item>雙相陽壓呼吸輔助器(Bi-PAP)</item>
+        <item>單相陽壓呼吸輔助器(C-PAP)</item>
+        <item>氧氣製造機</item>
+        <item>氧氣筒</item>
+        <item>壓力衣A款-頭頸</item>
+        <item>壓力衣B款-肩胸腹背</item>
+        <item>壓力衣C款-右上肢</item>
+        <item>壓力衣D款-左上肢</item>
+        <item>壓力衣E款-腰臀大腿</item>
+        <item>壓力衣F款-右下肢</item>
+        <item>壓力衣G款-左下肢</item>
+        <item>矽膠片</item>
+    </string-array>
+
+</resources>
